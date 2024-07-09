@@ -1,0 +1,3 @@
+/home/bice/nmpde-projects/build/CMakeFiles/rebuild_cache.dir
+/home/bice/nmpde-projects/build/CMakeFiles/edit_cache.dir
+/home/bice/nmpde-projects/build/CMakeFiles/main.dir
